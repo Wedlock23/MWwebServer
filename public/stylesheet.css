@@ -1,0 +1,11 @@
+/* Main style sheet for webpage */
+.h1 {
+    background-color: red;
+}
+* {
+    background-color: red;
+}
+
+.navbar-brand {
+    font-size: larger;
+}
