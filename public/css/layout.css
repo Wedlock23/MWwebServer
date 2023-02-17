@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    padding: 25px 0;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+  }
+  
+  @media (min-width: 768px) {
+    .footer {
+      text-align: left;
+    }
+  }
+  
